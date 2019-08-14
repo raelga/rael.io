@@ -52,11 +52,11 @@ date_format = "Jan 2006"
   description = """
   *Accountabilities*
   
-  * Deployment, configuration and administration of a 1,2TFlops in-house supercomputer and a AWS cloud based cluster for scientific computations.
-  * Responsible for corporate services deployment and administration such as SugarCRM, Wikimedia, Redmine, LDAP or a corporate chat platform.
-  * Responsible for network infrastructure deployment and administration from DNS, network shares, backups and PostgreSQL / MySQL databases to security protocols, monitoring with Nagios, SSL, firewalls and server hardening.
-  * Responsible for development services deployment and administration such as Jenkins and Sonar servers for CI, Git and Subversion repositories and Jetty and Tomcat as application servers for Sprint and Play applications.
-  * Operations in an Agile team using SRCUM for projects and Kanban for IT and bug fixing. Programing in Shell/Perl Scripting for operations, Java, HTML and JS for developments and C/GSS/MPI for scientific applications.
+  * **Deployment, configuration and administration** of a 1,2TFlops in-house supercomputer and a AWS cloud based cluster for scientific computations.
+  * **Responsible for corporate services7 deployment and administration** such as SugarCRM, Wikimedia, Redmine, LDAP or a corporate chat platform.
+  * **Responsible for network infrastructure deployment and administration** from DNS, network shares, backups and PostgreSQL / MySQL databases to security protocols, monitoring with Nagios, SSL, firewalls and server hardening.
+  * **Responsible for development services deployment and administration** such as Jenkins and Sonar servers for CI, Git and Subversion repositories and Jetty and Tomcat as application servers for Sprint and Play applications.
+  * Operations in an **Agile team using SRCUM for projects and Kanban for IT** and bug fixing. Programing in Shell/Perl Scripting for operations, Java, HTML and JS for developments and C/GSS/MPI for scientific applications.
 
   *Selected achivements*
 
@@ -89,12 +89,12 @@ date_format = "Jan 2006"
   description = """
   *Accountabilities*
   
-  * Project manager and developer of several applications in Visual Basic for sales, logistics and quality departments.
+  * **Project manager and developer** of several applications in Visual Basic for sales, logistics and quality departments.
 
   *Selected achivements*
 
-  * Develop a centralized solution for automatic applications self-updates using only the Microsoft Office platform.
-  * Develop a Business Intelligence platform to allow the decision makers make easy data analysis from a bank size transactions database.
+  * Develop a **centralized solution for automatic applications self-updates** using only the Microsoft Office platform.
+  * **Develop a Business Intelligence platform** to allow the decision makers make easy data analysis from a bank size transactions database.
   """
 
 [[experience]]
@@ -107,8 +107,8 @@ date_format = "Jan 2006"
   description = """
   *Accountabilities*
   
-  * Building, configuring and maintaining new servers, computers and hardware.
-  * Creating and maintaining computer networks for small business.
+  * **Building, configuring and maintaining** new servers, computers and hardware.
+  * **Deploying and maintaining computer networks** for small business.
   * IT support on Windows, Mac OS X, Linux SO and applications
   """
 
@@ -122,6 +122,6 @@ date_format = "Jan 2006"
   description = """
   *Accountabilities*
   
-  * Partnered with a restaurant owner to set up an Internet Café near my school.
+  * Partnered with a restaurant owner to **set up an Internet Café** near my school.
   """
 +++
