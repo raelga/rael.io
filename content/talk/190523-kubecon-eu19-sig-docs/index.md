@@ -1,6 +1,4 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: "Intro + Deep Dive: Kubernetes (Docs) SIG"
 event: KubeCon + CloudNativeCon Europe 2019
 event_url: https://kccnceu19.sched.com/event/MPlA/intro-deep-dive-kubernetes-docs-sig-zach-corleissen-linux-foundation-rael-garcia-capside
@@ -12,55 +10,35 @@ abstract: |
 
   We'll also look at the website stack: how we preview and publish docs to kubernetes.io. We'll talk about the docs workflow: how SIG Docs does the work to review and publish docs. During the deep dive, we'll explore the docs contributor guide and do some hands-on contribution. Remember that contributing to docs is a pathway to Kubernetes membership!
 
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
+# Dates
 date: 2019-05-23T15:55:00+02:00
 date_end: 2019-05-23T17:20:00+02:00
 all_day: false
-
-# Schedule page publish date (NOT talk date).
 publishDate: 2019-05-23T15:55:00+02:00
 
+# Meta
+featured: true
 authors: [ rael ]
 tags: [ kubecon kubernetes ]
-
-# Is this a featured talk? (true/false)
-featured: true
+projects: [ ]
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: "Intro + Deep Dive: Kubernetes (Docs) SIG - Zach Corleissen, Linux Foundation & Rael Garcia, CAPSiDE"
   focal_point: ""
   preview_only: false
 
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
-
-# Optional filename of your slides within your talk's folder or a URL.
+# Links
 url_slides: http://bit.ly/kubecon-eu19-sig-docs
-
 url_code:
 url_pdf:
 url_video: https://www.youtube.com/watch?v=tMCeY71o8aA
+links:
+- name: Youtube
+  url: https://www.youtube.com/watch?v=tMCeY71o8aA
+  icon_pack: fab
+  icon: youtube
 
 # Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
 slides: ""
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: [ kubernetes ]
 ---
