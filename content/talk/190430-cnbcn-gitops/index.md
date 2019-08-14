@@ -40,6 +40,10 @@ links:
   url: https://www.meetup.com/Cloud-Native-Barcelona/events/260224164/
   icon_pack: fab
   icon: meetup
+- name: GitHub
+  url: https://github.com/raelga/GitOps-talk
+  icon_pack: fab
+  icon: github
 
 # Markdown Slides (optional).
 

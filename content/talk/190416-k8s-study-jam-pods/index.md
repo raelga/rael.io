@@ -40,6 +40,10 @@ links:
   url: https://www.meetup.com/Cloud-Native-Barcelona/events/260422493/
   icon_pack: fab
   icon: meetup
+- name: GitHub
+  url: https://rael.dev/kubernetes-talks/tree/master/study-jams/k8s/default/pods
+  icon_pack: fab
+  icon: github
 
 # Markdown Slides (optional).
 slides: ""
