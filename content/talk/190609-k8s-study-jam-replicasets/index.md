@@ -5,8 +5,10 @@ title: "Kubernetes Study Jam: ReplicaSets"
 event: Cloud Native Barcelona
 event_url: https://www.meetup.com/Cloud-Native-Barcelona/events/260756033/
 location: CAPSiDE HQ, Barcelona
-summary: Study Jam about Kubernetes ReplicaSet objects, with slides and examples.
-abstract:
+summary: |
+  Study Jam about Kubernetes ReplicaSet objects, with slides and examples.
+abstract: |
+  Study Jam about Kubernetes ReplicaSet objects, with slides and examples.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -40,7 +42,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: http://go.rael.dev/k8s-contribute
+url_slides: http://go.rael.dev/k8s-101
 
 url_code: https://rael.dev/kubernetes-talks/tree/master/study-jams/k8s/default/replicasets
 url_pdf:
