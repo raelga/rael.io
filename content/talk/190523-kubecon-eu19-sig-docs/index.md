@@ -22,10 +22,10 @@ all_day: false
 publishDate: 2019-05-23T15:55:00+02:00
 
 authors: [ rael ]
-tags: []
+tags: [ kubecon kubernetes ]
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
