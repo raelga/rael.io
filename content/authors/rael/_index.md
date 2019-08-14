@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Rael Garcia
+name: Rael Garcia Arnes
 
 # Username (this should match the folder name)
 authors:
