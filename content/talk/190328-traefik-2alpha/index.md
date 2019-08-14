@@ -19,7 +19,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: 2019-03-28T17:20:58+02:00
 
-authors: []
+authors: [ rael ]
 tags: []
 
 # Is this a featured talk? (true/false)
