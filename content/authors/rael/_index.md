@@ -38,9 +38,6 @@ education:
   - course: Computer Engineering
     institution: Universitat Politècnica de Catalunya
     year: 2005
-  - course: Physics
-    institution: Universitat de Barcelona
-    year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
