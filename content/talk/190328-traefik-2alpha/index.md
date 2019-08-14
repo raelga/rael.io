@@ -8,7 +8,8 @@ location: CAPSiDE, Barcelona
 summary: |
   Traefik 1.7 overview, Traefik 2.0 alpha introduction and a live demo using both versions.
 abstract: |
-  Traefik 1.7 overview, Traefik 2.0 alpha introduction and a live demo using both versions.
+ Introducing to the Traefik awesome Cloud Native Edge Router and the new features comming in Traefik 2.0.
+
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
