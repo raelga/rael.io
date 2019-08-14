@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   
   * **Design, deployment and operation** of cloud platforms in AWS, GCP and Azure.
   * **Provision and administration** of Docker containers, Linux and Windows systems.
-  * **Database administration**- of MySQL, PostgreSQL, MongoDB, Oracle and SQL Server.
+  * **Database administration** of MySQL, PostgreSQL, MongoDB, Oracle and SQL Server.
   * **Infrastructure as code** with Terraform, CloudFormation, GCP DM and Azure ARM.
   * **Automation** with Ansible, Jenkins, GitLab CI/CD and GCP Cloud Build.
   * **Containers** with Fargate and ECS; **Kubernetes** with AKS, EKS and GKE.
