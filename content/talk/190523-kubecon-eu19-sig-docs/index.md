@@ -19,7 +19,7 @@ publishDate: 2019-05-23T15:55:00+02:00
 # Meta
 featured: true
 authors: [ rael ]
-tags: [ kubecon kubernetes ]
+tags: [ kubecon, kubernetes, sig-docs ]
 projects: [ ]
 
 # Featured image

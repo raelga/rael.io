@@ -19,7 +19,7 @@ publishDate: 2019-05-01T18:30:00+02:00
 # Meta
 featured: false
 authors: [ rael ]
-tags: [ kubernetes, hackathon, contribute ]
+tags: [ kubernetes, hackathon, contribute, sig-docs ]
 projects: []
 
 # Featured image
