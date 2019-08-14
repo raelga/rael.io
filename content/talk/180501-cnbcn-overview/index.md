@@ -34,6 +34,11 @@ url_slides: http://go.rael.dev/cnbcn-overview
 url_code:
 url_pdf:
 url_video:
+links:
+- name: Meetup
+  url: https://www.meetup.com/Cloud-Native-Barcelona/ 
+  icon_pack: fab
+  icon: meetup
 
 # Markdown Slides (optional).
 slides: ""

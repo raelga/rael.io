@@ -31,6 +31,11 @@ url_slides: http://go.rael.dev/k8s-clouds-breakdown
 url_code: https://rael.dev/kubernetes-talks/tree/master/providers
 url_pdf:
 url_video:
+links:
+- name: Meetup
+  url: https://www.meetup.com/Cloud-Native-Barcelona/events/251548472/
+  icon_pack: fab
+  icon: meetup
 
 # Markdown Slides (optional).
 slides: ""

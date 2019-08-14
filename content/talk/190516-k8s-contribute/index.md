@@ -33,6 +33,15 @@ url_slides: http://go.rael.dev/k8s-contribute
 url_code:
 url_pdf:
 url_video:
+links:
+- name: Photos
+  url: https://www.meetup.com/Cloud-Native-Barcelona/photos/30013315/
+  icon_pack: fa
+  icon: camera
+- name: Meetup
+  url: https://www.meetup.com/Cloud-Native-Barcelona/events/260769421/
+  icon_pack: fab
+  icon: meetup
 
 # Markdown Slides (optional).
 slides: ""

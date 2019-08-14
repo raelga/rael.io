@@ -27,11 +27,19 @@ image:
   preview_only: false
 
 # Links
-
 url_slides:
 url_code: https://github.com/raelga/GitOps-talk
 url_pdf:
 url_video:
+links:
+- name: Photos
+  url: https://www.meetup.com/Cloud-Native-Barcelona/photos/29940031/
+  icon_pack: fa
+  icon: camera
+- name: Meetup
+  url: https://www.meetup.com/Cloud-Native-Barcelona/events/260224164/
+  icon_pack: fab
+  icon: meetup
 
 # Markdown Slides (optional).
 

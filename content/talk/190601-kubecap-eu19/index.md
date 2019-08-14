@@ -32,6 +32,15 @@ url_slides: https://go.rael.dev/kubecap19-eu
 url_code:
 url_pdf:
 url_video:
+links:
+- name: Photos
+  url: https://www.meetup.com/Cloud-Native-Barcelona/events/262219953/
+  icon_pack: fa
+  icon: camera
+- name: Meetup
+  url: https://www.meetup.com/Cloud-Native-Barcelona/photos/30109462/
+  icon_pack: fab
+  icon: meetup
 
 # Markdown Slides (optional).
 slides: ""

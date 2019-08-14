@@ -32,6 +32,15 @@ url_slides: http://go.rael.dev/cnbcn-csj-essentials19
 url_code:
 url_pdf:
 url_video:
+links:
+- name: Photos
+  url: https://www.meetup.com/Cloud-Native-Barcelona/photos/30056920/
+  icon_pack: fa
+  icon: camera
+- name: Meetup
+  url: https://www.meetup.com/Cloud-Native-Barcelona/events/261952548/
+  icon_pack: fab
+  icon: meetup
 
 # Markdown Slides (optional).
 slides: ""

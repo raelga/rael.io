@@ -31,6 +31,15 @@ url_slides: http://go.rael.dev/traefik-2alpha
 url_code: https://rael.dev/kubernetes-talks/tree/master/traefik
 url_pdf:
 url_video:
+links:
+- name: Photos
+  url: https://www.meetup.com/Cloud-Native-Barcelona/photos/29838234/
+  icon_pack: fa
+  icon: camera
+- name: Meetup
+  url: https://www.meetup.com/Cloud-Native-Barcelona/events/259898099/
+  icon_pack: fab
+  icon: meetup
 
 # Markdown Slides (optional).
 slides: ""
