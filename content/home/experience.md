@@ -27,14 +27,15 @@ date_format = "Jan 2006"
   description = """
   *Accountabilities*
   
-  * **Design, deployment and operation** of cloud platforms in AWS, GCP and Azure.
-  * **Provision and administration** of Docker containers, Linux and Windows systems.
-  * **Database administration** of MySQL, PostgreSQL, MongoDB, Oracle and SQL Server.
-  * **Infrastructure as code** with Terraform, CloudFormation, GCP DM and Azure ARM.
+  * **Design, deployment and operation of cloud platforms** in AWS, GCP and Azure.
+  * **Provision and administration** of Linux and Windows systems and containers.
+  * **Database administration** for Couchbase, Mongo, MySQL, PostgreSQL, and SQL Server.
+  * **Infrastructure as code** with Terraform, AWS CloudFormation, GCP DM and Azure ARM.
   * **Automation** with Ansible, Jenkins, GitLab CI/CD and GCP Cloud Build.
-  * **Containers** with Fargate and ECS; **Kubernetes** with AKS, EKS and GKE.
-  * **Scripting and tooling development** on Bash, Python, Perl, Ruby and GoLang.
-  * **On call** rotation, critical event management, **public speaking** and customer relations.
+  * **Containers** with Fargate and ECS; **Kubernetes** with Azure AKS, AWS EKS and GCP GKE.
+  * **Serverless** with AWS Lambda, Google Cloud Functions and Serverless Framework.
+  * **Scripting and development** in Bash, Go, Make, Perl, PowerShell, Python and Ruby.
+  * **On call** rotation, critical event management, **public speaking** and **customer relations**.
 
   *Selected achivements*
 
