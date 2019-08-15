@@ -25,19 +25,19 @@ organizations:
 bio: |
   Systems engineer, SRE @ capside | Contributor @ kubernetes | Organizer @ Cloud Native Barcelona
 
-interests:
-- Open source
-- Kubernetes
-- Cloud native technologies
-- Communities
-- Music
-- Video games
+# interests:
+# - Open source
+# - Kubernetes
+# - Cloud native technologies
+# - Communities
+# - Music
+# - Video games
 
-education:
-  courses:
-  - course: Computer Engineering
-    institution: Universitat Politècnica de Catalunya
-    year: 2005
+# education:
+#   courses:
+#   - course: Computer Engineering
+#     institution: Universitat Politècnica de Catalunya
+#     year: 2005
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
