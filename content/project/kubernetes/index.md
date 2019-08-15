@@ -7,7 +7,7 @@ summary: |
 authors: []
 tags: [ kubernetes, community, go ]
 categories: []
-date: 2019-08-15T11:23:56+02:00
+date: 2019-01-01T11:23:56+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -23,6 +23,15 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
+links:
+- name: Website
+  url: https://kubernetes.io
+  icon_pack: fa
+  icon: globe
+- name: GitHub
+  url: https://git.k8s.io
+  icon_pack: fab
+  icon: github
 
 # Slides (optional).
 slides: ""
