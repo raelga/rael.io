@@ -34,11 +34,11 @@ url_pdf:
 url_video:
 links:
 - name: Photos
-  url: https://www.meetup.com/Cloud-Native-Barcelona/events/262219953/
+  url: https://www.meetup.com/Cloud-Native-Barcelona/photos/30109462/
   icon_pack: fa
   icon: camera
 - name: Meetup
-  url: https://www.meetup.com/Cloud-Native-Barcelona/photos/30109462/
+  url: https://www.meetup.com/Cloud-Native-Barcelona/events/262219953/
   icon_pack: fab
   icon: meetup
 
