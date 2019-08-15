@@ -67,10 +67,10 @@ social:
 email: ""
 ---
 
-I've been deploying servers since I was fifteen, at first as a hobby and then as a career. During the last decade, the cloud has changed how we use information technologies and made accessible to anyone an unimaginable computing power.
+I've been deploying servers since I was fifteen, at first as a hobby and then as a career. During the last decade, the cloud has changed how we use information technologies and made accessible to everyone an unimaginable computing power.
 
-This change triggered several revolutions, one of them, the rise of open source technologies to take advantage of those compute resources to build amazing things. The tools and solutions now are out in the open, driven by the community and available to anyone who wants to use them, get involved in the project or adapt them to match their needs.
+This change triggered several revolutions, one of them, the rise of open source technologies to take advantage of those compute resources and build amazing things. The tools and solutions now are out in the open, **driven by the community** and **available to anyone** who wants to use them, get involved in the project or change them to match their needs.
 
-Open source projects enable an innovation speed never seen before and are democratizing the cloud ecosystem. Companies and users now are building their ideas and business on top of open-source cloud-native technologies that give you the freedom to run your workloads anywhere.
+Open source projects enable an **innovation** speed never seen before and are **democratizing the cloud** ecosystem. Companies and users now are building their ideas and business on top of open-source cloud-native technologies that give you the **freedom to run your workloads anywhere**.
 
-I would like to be part of that revolution.
+I would like to **be part of that revolution**.
