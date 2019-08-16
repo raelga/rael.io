@@ -32,6 +32,18 @@ links:
   url: https://git.k8s.io
   icon_pack: fab
   icon: github
+- name: Slack
+  url: https://slack.kubernetes.io
+  icon_pack: fab
+  icon: slack
+- name: Twitter
+  url: https://twitter.com/kubernetesio
+  icon_pack: fab
+  icon: twitter
+- name: Forum
+  url: https://discuss.kubernetes.io
+  icon_pack: fab
+  icon: discourse
 
 # Slides (optional).
 slides: ""
