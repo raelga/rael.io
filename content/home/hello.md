@@ -25,7 +25,7 @@ subtitle = ""
 
 [advanced]
  # Custom CSS. 
- css_style = "height: 100vh; background-position: center top;"
+ css_style = "height: 100vh; background-position: left top;"
  
  # CSS class.
  css_class = ""
