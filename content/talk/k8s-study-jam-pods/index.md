@@ -2,7 +2,7 @@
 title: "Kubernetes Study Jam: Pods"
 event: Cloud Native Barcelona
 event_url: https://www.meetup.com/Cloud-Native-Barcelona/events/260422493/
-location: CAPSiDE, Barcelona
+location: "CAPSiDE - Plaça de Catalunya 1, Barcelona, Spain"
 summary: |
   Study Jam about Kubernetes Pods objects, with slides and examples.
 abstract: |

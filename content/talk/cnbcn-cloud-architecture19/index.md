@@ -2,7 +2,7 @@
 title: "Cloud Study Jam: Cloud Architecture"
 event: Cloud Native Barcelona
 event_url: https://www.meetup.com/Cloud-Native-Barcelona/events/263044713/
-location: CAPSiDE, Barcelona
+location: "CAPSiDE - Plaça de Catalunya 1, Barcelona, Spain"
 summary: |
   Getting stated with the Google Cloud Platform Kubernetes solution.
 abstract: |

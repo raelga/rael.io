@@ -2,7 +2,7 @@
 title: "Kubernetes for all: AWS, Azure and GCP"
 event: Cloud Native Barcelona
 event_url: https://www.meetup.com/Cloud-Native-Barcelona/events/251548472/
-location: CAPSiDE, Barcelona
+location: "CAPSiDE - Plaça de Catalunya 1, Barcelona, Spain"
 summary: |
   Breakdown of the managed Kubernetes distributions in AWS, Azure and GCP.
 abstract: |

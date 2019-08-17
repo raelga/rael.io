@@ -2,7 +2,7 @@
 title: "Diversity and Inclusion at CNCF"
 event: Pride Meetup - Barcelona Tech
 event_url: https://www.meetup.com/Cloud-Native-Barcelona/events/262676418/
-location: Typeform, Barcelona
+location: "Typeform - Carrer de Bac de Roda, 163, Barcelona, Spain"
 summary: |
   How CNCF is Tackling Diversity and Inclusion in Open Source.
 abstract: |

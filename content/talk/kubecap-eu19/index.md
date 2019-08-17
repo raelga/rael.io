@@ -1,8 +1,8 @@
 ---
-title: "KubeCap EU'19: KubeCon+CloudNativeCon Europe 2019 Event ReCap"
+title: "KubeCap EU'19"
 event: Cloud Native Barcelona meetup
 event_url: https://www.meetup.com/Cloud-Native-Barcelona/events/262219953/
-location: CAPSiDE, Barcelona
+location: "CAPSiDE - Plaça de Catalunya 1, Barcelona, Spain"
 summary: |
   KubeCon+CloudNativeCon Europe 2019 Event ReCap.
 abstract:
@@ -11,7 +11,7 @@ abstract:
 
 # Dates
 date: 2019-06-19T18:30:00+02:00
-date_end: 2019-06-14T21:00:00+02:00
+date_end: 2019-06-19T21:00:00+02:00
 all_day: false
 publishDate: 2019-06-01T16:36:38+02:00
 

@@ -2,7 +2,7 @@
 title: "Traefik 2.0 Alpha"
 event: Cloud Native Barcelona meetup
 event_url: https://www.meetup.com/Cloud-Native-Barcelona/events/259898099/
-location: CAPSiDE, Barcelona
+location: "CAPSiDE - Plaça de Catalunya 1, Barcelona, Spain"
 summary: |
   Traefik 1.7 overview, Traefik 2.0 alpha introduction and a live demo using both versions.
 abstract: |

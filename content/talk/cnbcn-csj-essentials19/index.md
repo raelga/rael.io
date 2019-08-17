@@ -2,7 +2,7 @@
 title: "Cloud Study Jam: GCP Essentials"
 event: Cloud Native Barcelona
 event_url: https://www.meetup.com/Cloud-Native-Barcelona/events/261952548/
-location: CAPSiDE, Barcelona
+location: "CAPSiDE - Plaça de Catalunya 1, Barcelona, Spain"
 summary: |
   Getting started with Google Cloud Platform.
 abstract: |

@@ -1,12 +1,12 @@
 ---
-title: "GitOps"
+title: "GitOps Pipeline"
 event: Cloud Native Barcelona
 event_url: https://www.meetup.com/Cloud-Native-Barcelona/events/260224164/
-location: CAPSiDE, Barcelona
+location: "CAPSiDE - Plaça de Catalunya 1, Barcelona, Spain"
 summary: |
   GitOps using infrastructure as code and Kubernetes in Google Cloud.
 abstract: |
-  How to build a GitOps flow using infrastructure as code and Kubernetes in Google Cloud.
+  How to build a GitOps flow with infrastructure as code and Kubernetes in Google Cloud, using Azure DevOps and bash, quite a lot of bash.
 
 # Dates
 date: 2019-04-30T18:30:00+02:00

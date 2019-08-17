@@ -2,7 +2,7 @@
 title: "Intro + Deep Dive: Kubernetes (Docs) SIG"
 event: KubeCon + CloudNativeCon Europe 2019
 event_url: https://kccnceu19.sched.com/event/MPlA/intro-deep-dive-kubernetes-docs-sig-zach-corleissen-linux-foundation-rael-garcia-capside
-location: Barcelona
+location: "KubeCon Europe 2019 - Fira Gran Via, Barcelona, Spain"
 summary: |
   KubeCon EU'19 session about SIG-Docs at Kubernetes.
 abstract: |

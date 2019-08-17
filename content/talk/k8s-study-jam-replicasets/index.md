@@ -2,7 +2,7 @@
 title: "Kubernetes Study Jam: ReplicaSets"
 event: Cloud Native Barcelona
 event_url: https://www.meetup.com/Cloud-Native-Barcelona/events/260756033/
-location: CAPSiDE, Barcelona
+location: "CAPSiDE - Plaça de Catalunya 1, Barcelona, Spain"
 summary: |
   Study Jam about Kubernetes ReplicaSet objects, with slides and examples.
 abstract: |
