@@ -9,6 +9,6 @@ view: 2
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: ""
-  image: ""
+  caption: "Photo by Emma Briones @whiskyemms"
+  image: "photos/emma-hello.jpg"
 ---
