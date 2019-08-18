@@ -1,8 +1,8 @@
 +++
-widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+widget = "landing_image" 
+headless = true
+active = true
+weight = 10
 
 title = ""
 subtitle = ""
@@ -15,6 +15,8 @@ subtitle = ""
   # Background image.
   image = "photos/emma-hello.jpg"  # Name of image in `static/img/`.
   image_darken = 0.2  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image_position = "" # Default 'center top'
+  image_small = "photos/emma-hello-small.jpg" # Adapt image on small screens
 
   # Text color (true=light or false=dark).
   text_color_light = true
@@ -25,7 +27,7 @@ subtitle = ""
 
 [advanced]
  # Custom CSS. 
- css_style = "height: 100vh; background-position: left top;"
+ css_style = ""
  
  # CSS class.
  css_class = ""
