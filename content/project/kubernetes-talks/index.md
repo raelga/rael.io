@@ -5,7 +5,7 @@ title: "Kubernetes Talks"
 summary: |
   Slides, demo apps and resources to talk and teach kubernetes.
 authors: [ rael ]
-tags: [ gcp, aws, azure, do, infra-as-code, kubernetes ]
+tags: [ gcp, aws, azure, do, infra-as-code, kubernetes, talks ]
 categories: [ contributor, talks ]
 date: 2018-08-15T11:23:56+02:00
 

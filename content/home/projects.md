@@ -62,8 +62,8 @@ subtitle = "Open Source projects, websites, videogames, docker images, and other
     tag = "ts"
 
   [[content.filter_button]]
-    name = "Websites"
-    tag = "web"
+    name = "Website"
+    tag = "website"
 
   [[content.filter_button]]
     name = "Talks"
