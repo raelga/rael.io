@@ -5,7 +5,7 @@ title: "PyBot"
 summary: |
   Bot framework in Python with programmable interfaces and dynamic plug-in architecture
 authors: [ rael ]
-tags: [ code, bots, python ]
+tags: [ code, bot, python ]
 categories: [ source ]
 date: 2017-03-02T11:23:56+02:00
 

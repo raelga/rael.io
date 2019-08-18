@@ -5,7 +5,7 @@ title: "Hubot Raelbot"
 summary: |
   The first version of @raelbot, built on the Hubot framework.
 authors: [ rael ]
-tags: [ code, bots, js ]
+tags: [ code, bot, js ]
 categories: [ source ]
 date: 2015-08-16T11:23:56+02:00
 

@@ -5,7 +5,7 @@ title: "tgfwdbot"
 summary: |
   Telegram bot to forward back and forward mesages between supergroups and private chats
 authors: [ rael ]
-tags: [ code, bots, go ]
+tags: [ code, bot, go ]
 categories: [ source ]
 date: 2017-07-09T11:23:56+02:00
 

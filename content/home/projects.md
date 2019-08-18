@@ -66,7 +66,11 @@ subtitle = "Open Source projects, websites, videogames, docker images, and other
     tag = "website"
 
   [[content.filter_button]]
-    name = "Talks"
+    name = "Bot"
+    tag = "bot"
+
+  [[content.filter_button]]
+    name = "Talk"
     tag = "talks"
 
 [design]
