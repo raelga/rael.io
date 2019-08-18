@@ -7,7 +7,7 @@ summary: |
 authors: []
 tags: [ kubernetes, community, go ]
 categories: [ contributor ]
-date: 2019-01-01T11:23:56+02:00
+date: 2018-08-01T11:23:56+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

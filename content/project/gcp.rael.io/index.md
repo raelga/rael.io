@@ -7,7 +7,7 @@ summary: |
 authors: [ rael ]
 tags: [ gcp, infra-as-code ]
 categories: [ source ]
-date: 2018-08-15T11:23:56+02:00
+date: 2019-02-24T11:23:56+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

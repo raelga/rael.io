@@ -7,7 +7,7 @@ summary: |
 authors: [ rael ]
 tags: [ gcp, aws, azure, do, infra-as-code, kubernetes, talks ]
 categories: [ contributor, talks ]
-date: 2018-08-15T11:23:56+02:00
+date: 2018-03-28T11:23:56+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

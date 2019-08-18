@@ -3,11 +3,11 @@
 
 title: "rael.io"
 summary: |
-  The code for this website, using the Hugo framework.
+  This website code, built using Hugo Framework.
 authors: [ rael ]
 tags: [ code, website, go ]
 categories: [ source ]
-date: 2018-08-15T11:23:56+02:00
+date: 2019-08-15T11:23:56+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

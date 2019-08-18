@@ -3,9 +3,9 @@ title: "cloudnative.barcelona"
 summary: |
   Cloud Native Barcelona website code, built using Hugo Framework.
 authors: []
-tags: [ cncf, kubernetes, community ]
+tags: [ cncf, website, community ]
 categories: [ contributor ]
-date: 2018-08-15T11:23:56+02:00
+date: 2019-07-24T11:23:56+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -17,7 +17,7 @@ image:
  preview_only: false
 
 # Links
-url_code: ""
+url_code: "https://github.com/cnbcn/cloudnative.barcelona"
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -27,25 +27,9 @@ links:
   icon_pack: fa
   icon: globe
 - name: GitHub
-  url: https://github.com/cnbcn
+  url: https://github.com/cnbcn/cloudnative.barcelona
   icon_pack: fab
   icon: github
-- name: Meetup
-  url: https://www.meetup.com/Cloud-Native-Barcelona/
-  icon_pack: fab
-  icon: meetup
-- name: Slack
-  url: https://slack.cloudnative.barcelona
-  icon_pack: fab
-  icon: slack
-- name: Telegram
-  url: https://t.me/CloudNativeBarcelona
-  icon_pack: fab
-  icon: telegram
-- name: Twitter
-  url: https://twitter.com/BarcelonaCloud
-  icon_pack: fab
-  icon: twitter
   
 
 # Slides (optional).

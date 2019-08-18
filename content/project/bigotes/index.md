@@ -7,7 +7,7 @@ summary: |
 authors: [ rael ]
 tags: [ code, website, php, gcp, kubernetes ]
 categories: [ source ]
-date: 2018-08-15T11:23:56+02:00
+date: 2018-11-11T11:23:56+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -36,3 +36,5 @@ links:
 # Slides (optional).
 slides: ""
 ---
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fc20200d-be84-45ae-a4f2-0b16eff715f5/deploy-status)](https://app.netlify.com/sites/bigotes/deploys)
