@@ -28,6 +28,7 @@ subtitle = ""
     publication_type = ""
   
 [design]
+
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
