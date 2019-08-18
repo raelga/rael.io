@@ -144,4 +144,4 @@ Examples of this makefile in use:
 
 ## Demo
 
-![tty](tty.gif)
+![tty](https://raw.githubusercontent.com/raelga/dm-templates/master/tty.gif)
