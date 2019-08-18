@@ -3,7 +3,7 @@
 
 title: "Jupyter Image Extractor"
 summary: |
-  Parses a Jupiter book html and extracts the images.
+  Parses a Jupyter book HTML and extracts the images.
 authors: [ rael ]
 tags: [ code, docker, python, jupyter ]
 categories: [ source ]
