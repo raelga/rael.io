@@ -1,12 +1,10 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: "dm-templates"
 summary: |
   Collection of Google Cloud Deployment Manager templates.
 authors: []
 tags: [ gcp, infra-as-code ]
-categories: [ ]
+categories: [ source ]
 date: 2018-08-15T11:23:56+02:00
 
 # Optional external URL for project (replaces project detail page).
