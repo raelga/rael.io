@@ -1,6 +1,4 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: "Cloud Native Barcelona"
 summary: |
   CNCF user group dedicated to building a strong, open, diverse developer community around the Cloud Native technologies in Barcelona.
