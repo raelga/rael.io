@@ -15,7 +15,7 @@ font = "default"
 description = "Systems engineer, SRE @ capside | Contributor @ kubernetes | Organizer @ Cloud Native Barcelona"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = "photos/emma-hello.jpg"
+sharing_image = "photos/emma-hello-card.jpg"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
 twitter = "raelga"
