@@ -2,10 +2,10 @@
 {{ $hash_id := .hash_id }}
 {{ $bg := $st.Params.design.background }}
 {{ $bg_position := $bg.image_position | default "center top" }}
-{{ $bg_small := printf "img/%s" $bg.image_small | absURL }}
 
 <style>
-{{ if $bg_small }}
+{{ if $bg.image_small }}
+{{ $bg_small := printf "img/%s" $bg.image_small | absURL }}
 @media screen and (max-width: 600px) {
   section#{{ $hash_id }} {
     background-image: {{ printf "url('%s')" $bg_small | safeCSS }} !important;

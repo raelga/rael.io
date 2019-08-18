@@ -16,7 +16,7 @@ subtitle = ""
   image = "photos/ncs-eu19-1.jpg"  # Name of image in `static/img/`.
   image_darken = 0.2  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_position = "" # Default 'center top'
-  image_small = "" # Use alternative image on small screens (under 600px)
+  #image_small = "" # Use alternative image on small screens (under 600px)
 
   # Text color (true=light or false=dark).
   text_color_light = true
