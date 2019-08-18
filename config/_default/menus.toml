@@ -10,17 +10,17 @@
 
 [[main]]
   name = "Open Source"
-  url = "#oss-contributions"
+  url = "#oss"
   weight = 20
-
-[[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 30
 
 [[main]]
   name = "Talks"
   url = "#talks"
+  weight = 30
+
+[[main]]
+  name = "Projects"
+  url = "#projects"
   weight = 40
 
 [[main]]

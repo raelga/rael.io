@@ -3,9 +3,9 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
-title = "Open Source Contributions"
+title = "Open Source"
 subtitle = ""
 
 [content]
@@ -13,7 +13,7 @@ subtitle = ""
   page_type = "project"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 2
+  count = 3
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -24,7 +24,7 @@ subtitle = ""
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
-    category = ""
+    category = "contributor"
     publication_type = ""
     exclude_featured = false
     exclude_past = false
