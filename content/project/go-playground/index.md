@@ -261,3 +261,7 @@ for i, v := rang abc {
 - https://www.youtube.com/watch?v=ytEkHepK08c
 - https://codegangsta.gitbooks.io/building-web-apps-with-go
 - https://golang.org/doc/code.html#Organization
+
+## Notes
+
+Gopher art from [ashleymcnamara/gophers](https://github.com/ashleymcnamara/gophers).

@@ -109,4 +109,6 @@ The main subject of this talk is introducing to the Traefik awesome Cloud Native
     - [Update the `ReplicaSet` `Pod` template with the fixed `ReadinessProbe`](study-jams/k8s/default/replicasets/#update-the-replicaset-pod-template-with-the-fixed-readinessprobe)
     - [Clean up the failing versions and the old ones](study-jams/k8s/default/replicasets/#clean-up-the-failing-versions-and-the-old-ones)
 
+## Notes
 
+Gopher art from [ashleymcnamara/gophers](https://github.com/ashleymcnamara/gophers).

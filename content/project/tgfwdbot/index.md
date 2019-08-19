@@ -35,7 +35,6 @@ slides: ""
 [![Build Status](https://travis-ci.org/raelga/tgfwdbot.svg?branch=master)](https://travis-ci.org/raelga/tgfwdbot)
 [![Go Report](https://goreportcard.com/badge/github.com/raelga/tgfwdbot)](https://goreportcard.com/report/github.com/raelga/tgfwdbot)
 
-
 Bot to forward back and forward mesages between supergroups and private chats, to allow talking in Telegram supergroups when banned.
 
 ## Why
@@ -54,3 +53,7 @@ The admins of the groups where the bot is a member will decide if the allows the
 
 **This bot is not intended to be a tool for spammers and malicious users to bypass Telegram bans.**
 The purpose is to allow users to interact in the groups with the authorization of the group admins when globally banned from supergroups due to troll reportings.
+
+## Notes
+
+Gopher art from [ashleymcnamara/gophers](https://github.com/ashleymcnamara/gophers).
