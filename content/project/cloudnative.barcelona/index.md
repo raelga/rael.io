@@ -4,7 +4,7 @@ summary: |
   Cloud Native Barcelona website code, built using Hugo Framework.
 authors: []
 tags: [ cncf, website, community ]
-categories: [ contributor ]
+categories: [ source ]
 date: 2019-07-24T11:23:56+02:00
 
 # Optional external URL for project (replaces project detail page).
