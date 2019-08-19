@@ -35,7 +35,7 @@ slides: ""
 [![Build Status](https://travis-ci.org/raelga/tgfwdbot.svg?branch=master)](https://travis-ci.org/raelga/tgfwdbot)
 [![Go Report](https://goreportcard.com/badge/github.com/raelga/tgfwdbot)](https://goreportcard.com/report/github.com/raelga/tgfwdbot)
 
-Bot to forward back and forward mesages between supergroups and private chats, to allow talking in Telegram supergroups when banned.
+Bot to forward messages between supergroups and private chats, to allow talking in Telegram supergroups when banned.
 
 ## Why
 
