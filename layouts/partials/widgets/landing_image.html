@@ -17,15 +17,11 @@
 @supports (-webkit-overflow-scrolling: touch) {
   section#{{ $hash_id }} {
     background-attachment:scroll;
-    padding: 0px !important;
   }
 }
 
 section#{{ $hash_id | safeCSS }} {
-  height: -moz-available;          /* WebKit-based browsers will ignore this. */
-  height: -webkit-fill-available;  /* Mozilla-based browsers will ignore this. */
-  height: fill-available;
-  /*  height: 100vh; */
+  height: calc(100vh - 70px);
   background-position: {{ $bg_position | safeCSS }};
 }
 </style>
