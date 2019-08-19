@@ -14,11 +14,11 @@ role: Cloud Native & OSS Advocate
 
 # Organizations/Affiliations
 organizations:
-- name: CAPSiDE
+- name: SRE at CAPSiDE
   url: "https://www.capside.com"
-- name: CNCF
+- name: Speaker at CNCF
   url: "https://www.cncf.io/speaker/rael"
-- name: Kubernetes
+- name: Contributor at Kubernetes
   url: "https://www.kubernetes.io"
 
 # Short bio (displayed in user profile at end of posts)
