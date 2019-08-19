@@ -13,4 +13,8 @@ header:
   image: "photos/cnbcn-traefik-2.jpg"
 ---
 
-Talks, presentations, workshops and other events.
+Talks, presentations, workshops and other events I've prepared so far.
+
+Looking for a **speaker**? Choose a **[talk](talk/)** or a subject and reach me at **[cncf.io/speaker/rael](https://cncf.io/speaker/rael)**.
+
+---
