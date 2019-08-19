@@ -33,7 +33,7 @@ subtitle = ""
 
 [advanced]
  # Custom CSS. 
- css_style = "height: 200px; background-position: right top; -webkit-filter: blur(1px);"
+ css_style = "height: 400px; background-position: left top;"
  
  # CSS class.
  css_class = ""
