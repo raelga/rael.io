@@ -1,5 +1,5 @@
 ---
-title: Talks
+title: Talk list
 
 # View.
 #   1 = List
@@ -12,3 +12,5 @@ header:
   caption:
   image: "photos/cnbcn-traefik-2.jpg"
 ---
+
+Talks, presentations, workshops and other events.
