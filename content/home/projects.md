@@ -62,6 +62,10 @@ subtitle = "Open Source projects, websites, videogames, docker images, and other
     tag = "ts"
 
   [[content.filter_button]]
+    name = "JavaScript"
+    tag = "js"
+
+  [[content.filter_button]]
     name = "Website"
     tag = "website"
 
