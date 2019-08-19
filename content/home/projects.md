@@ -79,7 +79,7 @@ subtitle = "Open Source projects, websites, videogames, docker images, and other
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
   # Toggle between the various page layout types.
   #   1 = List
