@@ -26,7 +26,7 @@ url_video: ""
 links:
 - name: Github
   url: https://github.com/raelga/rael.io
-  icon_pack: fa
+  icon_pack: fab
   icon: github
 
 # Slides (optional).
