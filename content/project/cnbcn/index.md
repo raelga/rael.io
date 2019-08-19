@@ -5,7 +5,7 @@ summary: |
 authors: []
 tags: [ cncf, kubernetes, community ]
 categories: [ contributor ]
-date: 2018-08-15T11:23:56+02:00
+date: 2018-01-15T11:23:56+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
