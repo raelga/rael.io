@@ -2,7 +2,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+weight = 50  # Order that this section will appear.
 
 title = ""
 subtitle = ""
@@ -21,7 +21,7 @@ subtitle = ""
   # gradient_end = "ForestGreen"
   
   # Background image.
-  image = "photos/emma-hello.jpg"  # Name of image in `static/img/`.
+  image = "photos/cnbcn-traefik-2.jpg"  # Name of image in `static/img/`.
   image_darken = 0.3  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
@@ -33,12 +33,8 @@ subtitle = ""
 
 [advanced]
  # Custom CSS. 
- css_style = "font-size: 1.5em; font-weight: 300; text-align: right; "
+ css_style = "height: 200px; background-position: right top; -webkit-filter: blur(1px);"
  
  # CSS class.
  css_class = ""
 +++
-
-Looking for a **speaker**?
-
-Choose a **[talk](talk/)** or a subject and reach me at **[cncf.io/speaker/rael](https://cncf.io/speaker/rael)**.

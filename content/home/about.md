@@ -7,4 +7,8 @@ weight = 10  # Order that this section will appear in.
 
 title = "About me"
 author = "rael"
+
+[advanced]
+ # Custom CSS. 
+ css_style = ""
 +++
