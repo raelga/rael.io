@@ -17,7 +17,7 @@ image:
  preview_only: false
 
 # Links
-url_code: "https://github.com/cnbcn/cloudnative.barcelona"
+url_code: "https://github.com/raelga/cloudnative.barcelona"
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -27,7 +27,11 @@ links:
   icon_pack: fa
   icon: globe
 - name: GitHub
-  url: https://github.com/cnbcn/cloudnative.barcelona
+  url: 
+- name: GitHub
+  url: https://github.com/cnbcn/website
+  icon_pack: fab
+  icon: github
   icon_pack: fab
   icon: github
   
@@ -42,8 +46,6 @@ slides: ""
 
 
 ## What is CNCF?
-
-<img src="https://github.com/cncf/artwork/blob/master/other/cncf/horizontal/color/cncf-color.png" width="250">
 
 CNCF is an open source software foundation dedicated to making cloud native computing universal and sustainable. Cloud native computing uses an open source software stack to deploy applications as microservices, packaging each part into its own container, and dynamically orchestrating those containers to optimize resource utilization. Cloud native technologies enable software developers to build great products faster.
 
