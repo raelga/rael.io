@@ -85,8 +85,8 @@ date_format = "Jan 2006"
   company = "CaixaBank"
   company_url = "https://www.caixabank.es/"
   location = "Barcelona"
-  date_start = "2009-01-01"
-  date_end = "2007-09-01"
+  date_start = "2007-09-01"
+  date_end = "2009-01-01"
   description = """
   *Accountabilities*
   
@@ -103,8 +103,8 @@ date_format = "Jan 2006"
   company = "JID Solutions"
   company_url = ""
   location = "Barcelona"
-  date_start = "2007-09-01"
-  date_end = "2005-01-01"
+  date_start = "2005-01-01"
+  date_end = "2007-09-01"
   description = """
   *Accountabilities*
   
