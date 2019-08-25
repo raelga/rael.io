@@ -39,7 +39,7 @@ date_format = "Jan 2006"
 
   *Selected achivements*
 
-  * Design and operation of critical platforms for customers like  Boyacá, Carrefour, FC Barcelona, Ferrovial, Grupo Planeta, Grupo Zeta, MANGO, Royal Opera House, Thrifty, Vueling, Zurich, [among others](https://www.capside.com/about/clients/).
+  * Design and operation of critical platforms for customers like Boyacá, Carrefour, FC Barcelona, Ferrovial, Grupo Planeta, Grupo Zeta, MANGO, Royal Opera House, Thrifty, Vueling, Zurich, [among others](https://www.capside.com/about/clients/).
   * Company holding **AWS Premier Consulting Partner**, **Google Cloud Premier Partner** and **Microsoft Azure Expert Managed Service Provider** status.
   """
 
