@@ -103,8 +103,8 @@ date_format = "Jan 2006"
   company = "JID Solutions"
   company_url = ""
   location = "Barcelona"
-  date_start = "2005-01-01"
-  date_end = "2007-09-01"
+  date_start = "2007-09-01"
+  date_end = "2005-01-01"
   description = """
   *Accountabilities*
   
@@ -114,7 +114,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Founder"
+  title = "Manager"
   company = "El Celler"
   company_url = ""
   location = "Barcelona"
