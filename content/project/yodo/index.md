@@ -91,3 +91,7 @@ tasks:
   status: true
   description: Add verbose mode
 ```
+
+## Notes
+
+Gopher art from [ashleymcnamara/gophers](https://github.com/ashleymcnamara/gophers).
