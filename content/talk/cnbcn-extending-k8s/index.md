@@ -28,7 +28,7 @@ image:
 
 # Links
 url_slides:
-url_code:
+url_code: https://github.com/raelga/extending-kubernetes
 url_pdf:
 url_video:
 links:
@@ -36,6 +36,12 @@ links:
   url: https://www.meetup.com/Cloud-Native-Barcelona/events/264074481/
   icon_pack: fab
   icon: meetup
+- name: GitHub
+  url: https://github.com/raelga/extending-kubernetes
+  icon_pack: fab
+  icon: github
+  
+  
 
 # Markdown Slides (optional).
 slides: ""
