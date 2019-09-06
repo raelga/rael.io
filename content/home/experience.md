@@ -35,11 +35,11 @@ date_format = "Jan 2006"
   * **Containers** with Fargate and ECS; **Kubernetes** with Azure AKS, AWS EKS and GCP GKE.
   * **Serverless** with AWS Lambda, Google Cloud Functions and Serverless Framework.
   * **Scripting and development** in Bash, Go, Make, Perl, PowerShell, Python and Ruby.
-  * **On call** rotation, critical event management, **public speaking** and **customer relations**.
+  * **On call** rotation and critical event management.
 
   *Selected achivements*
 
-  * Design and operation of critical platforms for customers like Boyacá, Carrefour, FC Barcelona, Ferrovial, Grupo Planeta, Grupo Zeta, MANGO, Royal Opera House, Thrifty, Vueling, Zurich, [among others](https://www.capside.com/about/clients/).
+  * Design and operation of critical platforms for global customers, check them out at [capside.com/about/clients](https://www.capside.com/about/clients/).
   * Company holding **AWS Premier Consulting Partner**, **Google Cloud Premier Partner** and **Microsoft Azure Expert Managed Service Provider** status.
   """
 
