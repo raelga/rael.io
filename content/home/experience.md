@@ -36,6 +36,7 @@ date_format = "Jan 2006"
   * **Serverless** with AWS Lambda, Google Cloud Functions and Serverless Framework.
   * **Scripting and development** in Bash, Go, Make, Perl, PowerShell, Python and Ruby.
   * **On call** rotation and critical event management.
+  * **Customer** interaction during platform support, project planning and implementation.
 
   *Selected achivements*
 
