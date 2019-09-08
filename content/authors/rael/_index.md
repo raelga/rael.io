@@ -56,9 +56,9 @@ social:
 - icon: slack
   icon_pack: fab
   link: https://kubernetes.slack.com/messages/DHCUXJ22J
-- icon: cv
-  icon_pack: ai
-  link: docs/RaelGarciaArnes-CV.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: docs/RaelGarciaArnes-CV.pdf
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
