@@ -46,3 +46,46 @@ links:
 # Markdown Slides (optional).
 slides: ""
 ---
+
+## Details
+What is the controller pattern? And the operator pattern? How we can use custom controllers to extend the Kubernetes API? How we can build our own custom resources, controllers and operators?
+
+Join at [meetup.com / Extending the Kubernetes API with Custom Resources, Controllers and Operators](https://www.meetup.com/Cloud-Native-Barcelona/events/264074481/)
+
+The talk will be streamed live at https://glovoapp.zoom.us/j/364754734.
+
+---
+
+## Agenda
+
+### 18:30 Welcome
+
+> Introduction to the Cloud Native community and Glovo!
+
+### 18:45 Kubernetes Architecture
+
+> Introduction to the core principles an components of the Kubernetes architecture. We will start a Kubernetes cluster from scratch, component by component learning how each piece fits into the puzzle.
+
+### 19:40 Break
+
+### 19:45 Kubernetes Custom Controllers and Operators in action
+
+> Introduction to the Operator concept. We will deploy some operators in a Google Kubernetes Engine cluster step by step and build our own Operator without (almost) writing any code.
+
+### 20:30 Pizza and drinks from Glovo!
+
+---
+
+## Speakers
+
+### Nacho Alonso
+_SRE at CAPSiDE, contributor at Kubernetes and co-organizer at Cloud Native Barcelona_
+
+### Rael Garcia
+_SRE at CAPSiDE, contributor at Kubernetes and organizer at Cloud Native Barcelona_
+
+### Roi Vázquez
+_SRE at CAPSiDE and contributor at Kubernetes [@lominorama](github.com/lominorama)_
+
+### Sergio López
+_SRE at Red Hat [@slopezz](github.com/slopezz)_
