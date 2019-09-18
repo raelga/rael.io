@@ -49,7 +49,7 @@ slides: ""
 
 What is the controller pattern? And the operator pattern? How we can use custom controllers to extend the Kubernetes API? How we can build our own custom resources, controllers and operators?
 
-Join at [meetup.com / Extending the Kubernetes API with Custom Resources, Controllers and Operators](https://www.meetup.com/Cloud-Native-Barcelona/events/264074481/)
+Join at [meetup.com/Cloud-Native-Barcelona](https://www.meetup.com/Cloud-Native-Barcelona/events/264074481/)
 
 The talk will be streamed live at https://glovoapp.zoom.us/j/364754734.
 
