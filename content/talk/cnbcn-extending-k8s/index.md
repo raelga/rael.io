@@ -27,7 +27,7 @@ image:
   preview_only: false
 
 # Links
-url_slides:
+url_slides: https://go.rael.dev/cnbcn-extending-k8s
 url_code: https://github.com/raelga/extending-kubernetes
 url_pdf:
 url_video:
@@ -51,6 +51,7 @@ What is the controller pattern? And the operator pattern? How we can use custom 
 
 Join at [meetup.com/Cloud-Native-Barcelona](https://www.meetup.com/Cloud-Native-Barcelona/events/264074481/)
 
+Slides at [go.rael.dev/cnbcn-extending-k8s](https://go.rael.dev/cnbcn-extending-k8s)
 The talk will be streamed live at https://glovoapp.zoom.us/j/364754734.
 
 ---
