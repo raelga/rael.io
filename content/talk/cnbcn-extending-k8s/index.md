@@ -66,11 +66,16 @@ The talk will be streamed live at https://glovoapp.zoom.us/j/364754734.
 
 > Introduction to the core principles an components of the Kubernetes architecture. We will start a Kubernetes cluster from scratch, component by component learning how each piece fits into the puzzle.
 
+- github.com/raelga/extending-kubernetes/tree/master/labs/k8s-from-scratch
+
 ### 19:40 Break
 
 ### 19:45 Kubernetes Custom Controllers and Operators in action
 
 > Introduction to the Operator concept. We will deploy some operators in a Google Kubernetes Engine cluster step by step and build our own Operator without (almost) writing any code.
+
+- github.com/raelga/extending-kubernetes/tree/master/labs/ansible-operators
+- github.com/raelga/extending-kubernetes/tree/master/labs/operators-and-custom-controllers
 
 ### 20:30 Pizza and drinks from Glovo!
 
