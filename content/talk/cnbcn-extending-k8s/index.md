@@ -40,8 +40,10 @@ links:
   url: https://github.com/raelga/extending-kubernetes
   icon_pack: fab
   icon: github
-  
-  
+- name: Slides
+  url: https://go.rael.dev/cnbcn-extending-k8s
+  icon_pack: fa
+  icon: object-group
 
 # Markdown Slides (optional).
 slides: ""
