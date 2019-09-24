@@ -15,7 +15,7 @@ all_day: false
 publishDate: 2019-08-16T16:45:25+02:00
 
 # Meta
-featured: true
+featured: false
 authors: [ rael ]
 tags: [ cnbcn, kubernetes, operators, go ]
 projects: []

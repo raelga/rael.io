@@ -15,7 +15,7 @@ all_day: false
 publishDate: 2019-09-01T16:45:25+02:00
 
 # Meta
-featured: true
+featured: false
 authors: [ rael ]
 tags: [ cnbcn, opensource, community ]
 projects: []
