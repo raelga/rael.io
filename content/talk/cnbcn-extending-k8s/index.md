@@ -70,6 +70,8 @@ The talk will be streamed live at https://glovoapp.zoom.us/j/364754734.
 
 - github.com/raelga/extending-kubernetes/tree/master/labs/k8s-from-scratch
 
+{{< youtube zFqQb1e2jO4 >}}
+
 ### 19:40 Break
 
 ### 19:45 Kubernetes Custom Controllers and Operators in action
