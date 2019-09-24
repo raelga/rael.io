@@ -27,8 +27,8 @@ image:
   preview_only: false
 
 # Links
-url_slides: https://go.rael.dev/cnbcn-extending-k8s
-url_code: https://github.com/raelga/extending-kubernetes
+url_slides:
+url_code: https://github.com/raelga/nodeless-kubernetes
 url_pdf:
 url_video:
 links:
