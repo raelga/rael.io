@@ -1,7 +1,7 @@
 ---
 title: "Nodeless Kubernetes"
 event: Cloud Native Barcelona
-event_url: https://www.meetup.com/Cloud-Native-Barcelona/events/263044713/
+event_url: https://www.meetup.com/Cloud-Native-Barcelona/events/264999287/
 location: "Marfeel - Av. de Josep Tarradellas, 20, Barcelona, Spain"
 summary: |
   Kubelet provides nodes to a Kubernetes system so the Scheduler can bind pods on them. But what if we don't want to manage nodes? How can we use other APIs to provide compute resources to a Kubernetes cluster?
