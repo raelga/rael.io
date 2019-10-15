@@ -14,8 +14,8 @@ role: Cloud Native & OSS Advocate
 
 # Organizations/Affiliations
 organizations:
-- name: SRE at CAPSiDE
-  url: "https://www.capside.com"
+- name: Site Reliability Engineer at Red Hat
+  url: "https://www.redhat.com"
 - name: Speaker at CNCF
   url: "https://www.cncf.io/speaker/rael"
 - name: Contributor at Kubernetes
