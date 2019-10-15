@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Senior Software Engineer, Site Reliability Engineering"
   company = "Red Hat"
-  company_url = https://www.redhat.com"
+  company_url = "https://www.redhat.com"
   location = "Barcelona"
   date_start = "2016-10-14"
   date_end = ""
