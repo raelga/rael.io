@@ -17,13 +17,23 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Senior Software Engineer, Site Reliability Engineering"
+  company = "Red Hat"
+  company_url = "https://www.redhat.com"
+  location = "Barcelona"
+  date_start = "2016-10-14"
+  date_end = ""
+  description = ""
+ 
 [[experience]]
   title = "Senior Systems Engineer, Site Reliability Engineering"
   company = "CAPSiDE"
-  company_url = "htts://www.capside.com"
+  company_url = "https://www.capside.com"
   location = "Barcelona"
   date_start = "2016-03-14"
-  date_end = ""
+  date_end = "2019-10-11"
   description = """
   *Accountabilities*
   
