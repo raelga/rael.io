@@ -44,3 +44,42 @@ links:
 # Markdown Slides (optional).
 slides: ""
 ---
+
+
+## Agenda
+
+#### **18:30** Welcome
+#### **18:45** What is a Kubernetes Node?
+#### **19:20** How we can run containers without nodes?
+#### **19:40** Break
+#### **19:55** Going 100% nodeless kubernetes in AWS
+#### **20:40** Networking with snacks and drinks thanks to Marfeel!
+
+## Talks
+
+#### Welcome
+> Introduction to the Cloud Native community and Marfeel!
+
+#### What is a Kubernetes Node?
+> Deep dive into what defines a Kubernetes node, what is a container runtime and how Kubernetes interacts with them to orchestrate containers. As usual, driven by live demos.
+
+#### How we can run pods without nodes?
+> Introduction to managed container services, how to use them with Kubernetes and what providers are available. Live demo using the Azure Kubernetes Engine.
+
+#### Going 100% nodeless kubernetes in AWS
+> How to run an AWS EKS cluster without a single EC2 instance.
+
+## Speakers
+
+#### Nacho Alonso
+> SRE at CAPSiDE, contributor at Kubernetes and co-organizer at Cloud Native Barcelona
+
+#### Rael Garcia
+> SRE at Red Hat, contributor at Kubernetes and organizer at Cloud Native Barcelona gh@raelga
+
+#### Roi Vázquez
+> SRE at Red Hat and contributor at Kubernetes gh@roivaz
+
+We will try to provide a URL for the streaming once the event starts.
+
+More information at https://rael.io/talk/cnbcn-nodeless-k8s/
