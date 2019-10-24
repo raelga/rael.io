@@ -22,16 +22,20 @@ projects: []
 
 # Featured image
 image:
-  caption: "" 
+  caption: ""
   focal_point: ""
   preview_only: false
 
 # Links
-url_slides:
+url_slides: https://go.rael.dev/cnbcn-nodeless-k8s
 url_code: https://github.com/raelga/nodeless-kubernetes
 url_pdf:
 url_video:
 links:
+- name: Slides
+  url: https://go.rael.dev/cnbcn-nodeless-k8s
+  icon_pack: fa
+  icon: object-group
 - name: Meetup
   url: https://www.meetup.com/Cloud-Native-Barcelona/events/264999287/
   icon_pack: fab
