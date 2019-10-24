@@ -23,7 +23,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: |
-  Systems engineer, SRE @ capside | Contributor @ kubernetes | Organizer @ Cloud Native Barcelona
+  Senior Software Engineer at Red Hat | Contributor at kubernetes | Organizer at Cloud Native Barcelona
 
 # interests:
 # - Open source
