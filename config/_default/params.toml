@@ -12,7 +12,7 @@ day_night = true
 font = "default"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Systems engineer, SRE @ capside | Contributor @ kubernetes | Organizer @ Cloud Native Barcelona"
+description = "Senior Software Engineer, SRE at Red Hat | Contributor at kubernetes | Organizer at Cloud Native Barcelona"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = "photos/emma-hello-card.jpg"
