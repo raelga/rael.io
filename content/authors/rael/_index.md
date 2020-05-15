@@ -14,11 +14,11 @@ role: Cloud Native & OSS Advocate
 
 # Organizations/Affiliations
 organizations:
-- name: Site Reliability Engineer at Red Hat
+- name: Red Hat Site Reliability Engineer
   url: "https://www.redhat.com"
-- name: Speaker at CNCF
+- name: CNCF Speaker
   url: "https://www.cncf.io/speaker/rael"
-- name: Contributor at Kubernetes
+- name: Kubernetes Contributor
   url: "https://www.kubernetes.io"
 
 # Short bio (displayed in user profile at end of posts)
