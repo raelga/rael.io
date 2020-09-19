@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company = "Red Hat"
   company_url = "https://www.redhat.com"
   location = "Barcelona"
-  date_start = "2016-10-14"
+  date_start = "2019-10-14"
   date_end = ""
   description = ""
  
