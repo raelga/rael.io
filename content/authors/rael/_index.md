@@ -23,7 +23,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: |
-  Senior Software Engineer at Red Hat | Contributor at Kubernetes | Organizer at Cloud Native Barcelona
+  Senior Software Engineer at Red Hat | Contributor at kubernetes | Organizer at Cloud Native Barcelona
 
 # interests:
 # - Open source
@@ -67,7 +67,7 @@ social:
 email: ""
 ---
 
-I've been deploying servers since I was fifteen, at first as a hobby and then as a career. During the last decade, the cloud has changed how we use information technologies and made accessible to everyone an unimaginable computing power......
+I've been deploying servers since I was fifteen, at first as a hobby and then as a career. During the last decade, the cloud has changed how we use information technologies and made accessible to everyone an unimaginable computing power.
 
 This change triggered several revolutions, one of them, the rise of open source technologies to take advantage of those compute resources and build amazing things. The tools and solutions now are out in the open, **driven by the community** and **available to anyone** who wants to use them, get involved in the project or change them to match their needs.
 
